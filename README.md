@@ -35,7 +35,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 - Experience with project development and team collaboration.  
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/MahimaKamble/PORTFHOLIO.github.io/edit/main/README.md)
-- [LinkedIn](https://)
+- [LinkedIn](https://www.linkedin.com/in/mahima-kamble-4526b4270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ## Portfolio Highlights
 ### 🎯 Topic: Smart Waste Management System
 - DAA (Design and Analysis of Algorithms)  
